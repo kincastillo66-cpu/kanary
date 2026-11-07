@@ -21,4 +21,4 @@ Para instalar Kanary, descarga el archivo `.apk` desde la sección **Releases** 
 *   **Términos y Condiciones:** [https://kincastillo66-cpu.github.io/kanary-web/terms.html](https://kincastillo66-cpu.github.io/kanary-web/terms.html)
 *   **Política de Privacidad:** [https://kincastillo66-cpu.github.io/kanary-web/privacy.html](https://kincastillo66-cpu.github.io/kanary-web/privacy.html)
 
-*   [![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=kanary-releases)
+* [![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=kanary)
