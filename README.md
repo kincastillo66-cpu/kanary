@@ -23,4 +23,3 @@ Para instalar Kanary, descarga el archivo `.apk` desde la sección **Releases** 
 
 *   **Instagram del creador**
 https://www.instagram.com/eu_kinc?vrfl=Y2t2b3JvdHFxdjFq
-* [![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=kanary)
