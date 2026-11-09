@@ -1,4 +1,4 @@
-# Kanary 🐤
+# Kanary 
 
 **Kanary** es la billetera digital de autocustodia para enviar y recibir dólares digitales (USDC y USDT) en la red Base usando solo un `@alias`. 
 
